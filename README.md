@@ -1,4 +1,4 @@
-# YouTube_Trending-Machine_Learning-
+# YouTube_Trending-Machine_Learning
 Compared Random Forest model against the deep learning model (LSTM) in classifying YouTube video ratings
 ## Problem Definition and Context
 YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes).
